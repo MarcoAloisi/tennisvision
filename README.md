@@ -14,7 +14,6 @@ Este proyecto implementa un sistema de análisis de partidos de tenis utilizando
   - Velocidades promedio
   - Posiciones en la cancha
 
-
 ## Modelos Pre-entrenados
 
 El proyecto utiliza los siguientes modelos:
@@ -42,5 +41,13 @@ El proyecto utiliza los siguientes modelos:
  - Imprecisiones en la transformación de coordenadas
  - Desafíos en el manejo de la perspectiva de la cancha
 
+## Descarga de Recursos Necesarios
 
-https://drive.google.com/drive/folders/1kXu_O8Yg2R90vxw_ddSkUSCTt5j_bmA6?usp=sharing
+Antes de ejecutar el proyecto, es necesario descargar los recursos (video y modelos entrenados) desde el siguiente enlace:
+
+[Descargar Recursos](https://drive.google.com/drive/folders/1kXu_O8Yg2R90vxw_ddSkUSCTt5j_bmA6?usp=sharing)
+
+### Instrucciones de instalación
+
+1. Descarga todos los archivos del enlace proporcionado
+2. Coloca las carpetas descargadas dentro del directorio `app/` de tu proyecto:
