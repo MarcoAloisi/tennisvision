@@ -13,7 +13,8 @@ Este proyecto implementa un sistema de análisis de partidos de tenis utilizando
   - Velocidad de movimiento de los jugadores
   - Velocidades promedio
   - Posiciones en la cancha
-
+- Analisis del punto usando LLM de Google Gemini
+- 
 ## Modelos Pre-entrenados
 
 El proyecto utiliza los siguientes modelos:
