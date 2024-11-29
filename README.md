@@ -52,3 +52,34 @@ Antes de ejecutar el proyecto, es necesario descargar los recursos (video y mode
 
 1. Descarga todos los archivos del enlace proporcionado
 2. Coloca las carpetas descargadas dentro del directorio `app/` de tu proyecto:
+
+## Instalación y Ejecución
+
+### 1. Clonar el Repositorio
+```bash
+git clone https://github.com/MarcoAloisi/tennisvision.git
+cd app
+```
+
+### 2. Construir y Ejecutar con Docker Compose
+```bash
+docker compose up --build
+```
+
+Este comando:
+* Construirá la imagen Docker con todas las dependencias necesarias.
+* Iniciará los servicios definidos en el `docker-compose.yml`.
+* Configurará el entorno necesario para la ejecución.
+
+### 3. Acceder a la Aplicación
+Una vez que el contenedor esté en ejecución:
+1. Abre tu navegador web.
+2. Visita [http://localhost:8000](http://localhost:8000).
+
+### Uso de la Aplicación
+1. En tu navegador, accede a [http://localhost:8000](http://localhost:8000).
+2. La interfaz te permitirá:
+   * Seleccionar un video de tenis para analizar
+3. Sube el video de la carperta input y haz click en analizar.
+4. Esperar el resultado.
+```
