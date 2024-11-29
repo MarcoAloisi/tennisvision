@@ -55,6 +55,10 @@ Luego dentro de tu service account te vas al apartado de Keys y generas tu Json.
 Luego el nombre de tu archivo json tiene que ponerlo en el docker-compose.yml en la linea: - ./rich-suprstate-442213-c5-77b993f9b67b.json:/app/rich-suprstate-442213-c5-77b993f9b67b.json
 cambias el (rich-suprstate-442213-c5-77b993f9b67b) por el tuyo y tambien en el main.py en la linea de CREDENTIALS_PATH = os.path.join(os.path.dirname(__file__), "rich-suprstate-442213-c5-77b993f9b67b.json")
 
+
+Los notebooks estan dentro de la carpeta app/train.
+
+
 ### Instrucciones de instalación
 
 1. Descarga todos los archivos del enlace proporcionado
