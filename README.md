@@ -1,6 +1,6 @@
 # Análisis de Tenis mediante Computer Vision
 
-Este proyecto implementa un sistema de análisis de partidos de tenis utilizando técnicas de computer vision. El sistema detecta jugadores, la pelota, y genera estadísticas de juego en tiempo real.
+Este proyecto implementa un sistema de análisis de partidos de tenis utilizando técnicas de computer vision. El sistema detecta jugadores, la pelota, y genera estadísticas de juego en tiempo real. Posteriormente un modelo LLM analiza el punto.
 
 ## Características
 
@@ -14,7 +14,7 @@ Este proyecto implementa un sistema de análisis de partidos de tenis utilizando
   - Velocidades promedio
   - Posiciones en la cancha
 - Analisis del punto usando LLM de Google Gemini
-- 
+  
 ## Modelos Pre-entrenados
 
 El proyecto utiliza los siguientes modelos:
