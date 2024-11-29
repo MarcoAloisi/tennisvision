@@ -48,6 +48,13 @@ Antes de ejecutar el proyecto, es necesario descargar los recursos (video y mode
 
 [Descargar Recursos](https://drive.google.com/drive/folders/1kXu_O8Yg2R90vxw_ddSkUSCTt5j_bmA6?usp=sharing)
 
+Tambien es necesario hacer credenciales de google cloud para usar vertexapi , bucket y gemini.
+
+Una vez te crees tu proyecto tienes que hacer credenciales de un Service Accounts. 
+Luego dentro de tu service account te vas al apartado de Keys y generas tu Json. Ese Json lo pones en la raiz del directorio /app
+Luego el nombre de tu archivo json tiene que ponerlo en el docker-compose.yml en la linea: - ./rich-suprstate-442213-c5-77b993f9b67b.json:/app/rich-suprstate-442213-c5-77b993f9b67b.json
+cambias el (rich-suprstate-442213-c5-77b993f9b67b) por el tuyo y tambien en el main.py en la linea de CREDENTIALS_PATH = os.path.join(os.path.dirname(__file__), "rich-suprstate-442213-c5-77b993f9b67b.json")
+
 ### Instrucciones de instalación
 
 1. Descarga todos los archivos del enlace proporcionado
