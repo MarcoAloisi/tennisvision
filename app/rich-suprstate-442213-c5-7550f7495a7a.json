@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rich-suprstate-442213-c5",
+  "private_key_id": "7550f7495a7a8a7445ee00de82dee0ee226e689d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgsXHJD1Pna3+Q\nnDovWwgcIDAoHTDsLficx5YlLlnfVHQQR7RchnquwYZNYTMf1XBV3IMccFuZlPPq\nXCPkoTF/aLYC4usoqK0NvBkFs9rjbH1S6BrxiVsENfuGDZvUhcm/G9lTVQEqNCPh\n1rLc5ES3fraDHDt/ox2Gb/PJ39+1jnUodHZUcdTKnIcIk+SZofrp8URDKdlw3EQZ\nRRh7EsWYTeJjBPA41OkRKe4wKsFzQKJvXf12SY3tumA6p9ybr7N1SMV7yI49Ep9M\nxXeM/rOtdTUjf5n4M3tCjTBAmsdSaYd1/Vtx+uoO4iuRT0tQBSZgk5uWp3w/e5rS\nbnIuFqdxAgMBAAECggEANDx6eJl69OeE+EVQxMQaxsnP3bpfhOcMwio/LKb8oBSc\nBg7JGqq8hsJyHgVS0S5Y7hBYro33uN0qzSxWnqOnq3smb5nER9tNJgHXQHtO1E8Y\nDjNVTt8Prza9JL6XwWYcRvuOkgA3+LgqUeexDQ1HKT8PpV8wGDW2C1WpMh6MYkAA\n7DtomWDdRcX94N2KUVuYnalfX/7Itx5e5o4RlWhCtsAb7293+bKtZRpLnW4IZMhq\nrFpYxs5mCeNp4dmBVBoeZEOG03KnXU5LRekFRY9FBQzPpPEpQ0WU4D2KgD3Hi9cQ\nvFx0KY9UJgN6lGAjAesrdZGP8iHVvXZue+eJP+6lYQKBgQDTQtkBStJslhnuTc4E\n9blw9cHZblvRkhTp71lqn4Slu4woc8MShAWdQ83XoRyuAtdSDkEu1O5aF6HhRlT8\nSx1O3J0/aea3EwD+vkgxhslJXC2PoxEknQuPSXQJwEJdNCmMEKc2C8v5sVI1Vwbq\nptAkOzvwRJGTmV0uVYimdKpBKwKBgQDCuSRjMhOlpmM2sEDicPu92aD8KqxHoY2y\nWpmUoRWrXKy8ulf7yBm2m5Ek+2BLi+U8Il+/6IEFNXD9BD2wX5+IeR2YcYQT65xv\nYe21vzViYfwgVml7KrgeRr52/Zor5rPELL+YyBmgB+m9/fmnGeVYp+z+C8qjic5M\nWgaD0uZT0wKBgAkKwmj4v9rf7coyUFAMCFzaV+qre4iTvQtqMCSNIUtKpKwSkFXZ\nirf5b/T7s1OLUZX0gDu152G5wzb2IKsPt/hpHt3Y9YP+bzt3/3UHNNRL+rM8In6z\nrgv689l6/hwpIGIbUFzS0m8kdMVNrUEb1KrIUj9tX+G2XbOe+5NMSQEzAoGAMQ6x\n4yfXmVEtB7cp8aKjWbY9f6pEkxtZdoiqzq4ypmSHxFhyGCXWjJHu5FFMdlv9WcQT\nOWcbMjO/jo8F96xvpdNVqHVY4Cfo1ormd3Z/vZSQD5mVo4kkr8QE8jd8IvlRaugX\nMSeghRfZRJt6zSWSCV7tLyfLWp46UjQQFiAJFS8CgYBWgW1i8B/pon3DMPQ3HUzy\nziD8y+Oz7dcymaarivn8+hN7CIgHn4d1mlh5EEO9y8LQqGH1K4gRbcdtFULg1XN7\n7VTJRCtOfn4bDWpcboe2cq0yWiJjpGWJpR62ekpzEpDqgvo5ogupHgu2lqtZeE1M\nbjiTD9kMLLRFpOBW1PeB0w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aloisi@rich-suprstate-442213-c5.iam.gserviceaccount.com",
+  "client_id": "109759063551200545932",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aloisi%40rich-suprstate-442213-c5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
